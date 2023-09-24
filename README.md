@@ -22,3 +22,11 @@ Welcome to my portfolio! I'm Rohan, a Java Full Stack Developer.
 <meta name="author" content="Your Name">
 <title>Your Portfolio</title>
 
+<div style="margin-top: 98px;">
+    <h1 class="Fone">Hii..I'm <span style="color: white;">Rohan</span></h1>
+    <h1 class="Fone">I'm A</h1>
+    <h1 class="Ftwo"> JAVA FULL STACK</h1>
+    <h1 class="Ftwo">Developer</h1>
+</div>
+
+
